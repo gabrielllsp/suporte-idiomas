@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_android" translatable="false">Android Developer Dio Training</string>
+    <string name="fundamentos_geral_do_mercado_de_desenvolvimento_mobile" translatable="false">General Fundamentals of the Mobile Development Market</string>
+    <string name="vis_o_geral_do_mercado_de_desenvolvimento_mobile" translatable="false">Mobile Development Market Overview</string>
+    <string name="instalando_e_configurando_o_android_studio" translatable="false">Installing and Configuring Android Studio</string>
+    <string name="entendendo_a_estrutura_e_depurando_apps_android" translatable="false">Understanding the Framework and Debugging Android Apps</string>
+    <string name="criando_um_app_android_com_suporte_a_v_rios_idiomas" translatable="false">Creating an Android App with Multi-Language Support</string>
+    <string name="materiais_complementares" translatable="false">Complementary Materials</string>
+</resources>
